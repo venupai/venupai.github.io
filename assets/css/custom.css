@@ -10,3 +10,7 @@
     text-transform: none;
     font-weight: 300;
 }
+
+li {
+    font-size: 1.1rem;
+}
