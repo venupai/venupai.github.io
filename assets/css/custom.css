@@ -5,3 +5,8 @@
  */
 
 /*# sourceMappingURL=custom.css.map */
+
+.t-title__first-word {
+    text-transform: none;
+    font-weight: 300;
+}
